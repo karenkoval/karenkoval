@@ -4,6 +4,3 @@
 I’m a data analyst with a strong foundation in sales, bringing a unique business perspective to data-driven decision making. I specialize in turning raw data into actionable insights using tools like SQL, Tableau, and Python. Passionate about solving problems, visualizing data, and continuously learning.</p>
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=karenkoval alt=karenkoval /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=karenkoval&show_icons=true&include_all_commits=true)](https://github.com/karenkoval/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenkoval&layout=compact)](https://github.com/karenkoval/github-readme-stats)
